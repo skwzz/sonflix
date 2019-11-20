@@ -1,7 +1,6 @@
 import React from "react";
 import { Link, withRouter } from "react-router-dom";
 import styled from "styled-components";
-import { tsPropertySignature } from "@babel/types";
 
 const Header = styled.header`
   color: white;
