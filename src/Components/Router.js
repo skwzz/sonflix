@@ -9,6 +9,7 @@ import Home from "Routes/Home";
 import Tv from "Routes/Tv";
 import Search from "Routes/Search";
 import Header from "Components/Header";
+import Detail from "Routes/Detail";
 
 export default () => (
   <Router>
@@ -19,6 +20,8 @@ export default () => (
       {/* exact는 path와 정확할 때 Route로 보내짐 */}
       <Route path="/tv" exact component={Tv} />
       <Route path="/search" component={Search} />
+      <Route path="/movie/:id" component={Detail} />
+      <Route path="/tv/:id" component={Detail} />
       <Redirect from="*" to="/" />
     </Switch>
   </Router>
