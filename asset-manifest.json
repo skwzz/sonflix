@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/sonflix/static/js/main.42ced844.chunk.js",
+    "main.js.map": "/sonflix/static/js/main.42ced844.chunk.js.map",
+    "runtime-main.js": "/sonflix/static/js/runtime-main.b037b435.js",
+    "runtime-main.js.map": "/sonflix/static/js/runtime-main.b037b435.js.map",
+    "static/js/2.49dad730.chunk.js": "/sonflix/static/js/2.49dad730.chunk.js",
+    "static/js/2.49dad730.chunk.js.map": "/sonflix/static/js/2.49dad730.chunk.js.map",
+    "index.html": "/sonflix/index.html",
+    "precache-manifest.911dddcc6c1f3b1fa21d082f0603ef41.js": "/sonflix/precache-manifest.911dddcc6c1f3b1fa21d082f0603ef41.js",
+    "service-worker.js": "/sonflix/service-worker.js",
+    "static/media/no_poster_available.png": "/sonflix/static/media/no_poster_available.d7ef1547.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b037b435.js",
+    "static/js/2.49dad730.chunk.js",
+    "static/js/main.42ced844.chunk.js"
+  ]
+}
