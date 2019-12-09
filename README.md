@@ -10,7 +10,9 @@ Movie&Shows DB API from https://www.themoviedb.org/
 
 
 show MOVIES
+
 show TV Shows
+
 Search MOVIE & TV Shows
 
 
