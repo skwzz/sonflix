@@ -2,6 +2,11 @@
 
 Movie & TV shows Intruducing Site
 
-Javascript, React, React Router, Styled Component
+studied Javascript, React, React Router, Styled Component
 
-[Try it!](http://skwzz.github.io/sonflix/)
+used Container Presenter pattern
+
+Movie&Shows DB API from https://www.themoviedb.org/ 
+
+
+[*** Try it! ***](http://skwzz.github.io/sonflix/)
